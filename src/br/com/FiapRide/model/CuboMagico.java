@@ -1,4 +1,4 @@
-package br.com.Projeto_1.model;
+package br.com.FiapRide.model;
 
 public class CuboMagico {
 	public int quantidadeLados;

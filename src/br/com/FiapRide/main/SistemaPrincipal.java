@@ -1,6 +1,6 @@
-package br.com.Projeto_1.main;
+package br.com.FiapRide.main;
 
-import br.com.Projeto_1.model.Passageiro;
+import br.com.FiapRide.model.Passageiro;
 
 public class SistemaPrincipal {
 
